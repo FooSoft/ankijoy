@@ -24,4 +24,4 @@ With this plugin you can map any of the following actions to arbitrary buttons o
 If you wish to use this plugin simply download it from within the shared plugins menu in Anki or grab the latest
 revision of the code from [GitHub](http://github.com/FooSoft/ankijoy/).
 
-![](index/gamepad.png)
+![](http://foosoft.net/projects/ankijoy/img/gamepad.png)
