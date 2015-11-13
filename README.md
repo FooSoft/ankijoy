@@ -1,8 +1,8 @@
-# AnkiJoy
+# AnkiJoy #
 
+Linux. It relies on [PyQt](http://www.riverbankcomputing.co.uk/) which you already have installed if you run Anki, and
 This is a simple Python plugin I wrote for [Anki](http://ichi2.net/anki/) (the best
-[SRS](http://en.wikipedia.org/wiki/Spaced_repetition) software ever) to enable Joystick and Gamepad support under Linux.
-It relies on [PyQt](http://www.riverbankcomputing.co.uk/) which you already have installed if you run Anki, and
+[SRS](http://en.wikipedia.org/wiki/Spaced_repetition) software ever) to enable Joystick and Gamepad support under
 [pygame](http://www.pygame.org/) for game controller support. It can likely be made to work with a little bit of
 tweaking on Windows and MacOS X systems, but I am not pursuing this at this time.
 
@@ -24,4 +24,6 @@ With this plugin you can map any of the following actions to arbitrary buttons o
 If you wish to use this plugin simply download it from within the shared plugins menu in Anki or grab the latest
 revision of the code from [GitHub](http://github.com/FooSoft/ankijoy/).
 
-![](http://foosoft.net/projects/ankijoy/img/gamepad.png)
+## Screenshots ##
+
+[![Options dialog](img/gamepad-thumb.png)](img/gamepad.png)
