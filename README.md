@@ -1,9 +1,8 @@
 # AnkiJoy #
 
-This is a simple Python plugin I wrote for [Anki](http://ichi2.net/anki/) to enable Joystick and Gamepad support under
-Linux. It relies on [PyQt](http://www.riverbankcomputing.co.uk/) which you already have installed if you run Anki, and
-[pygame](http://www.pygame.org/) for game controller support. It can likely be made to work with a little bit of
-tweaking on Windows and MacOS systems, but I am not pursuing this at this time.
+AnkiJoy is a plugin for Anki (version 1.x only) which enables joystick and gamepad support in Linux via pygame. Due to
+differences in the Python runtime environment, this plugin does not currently function in Windows (no testing has been
+done on Mac OS X).
 
 With this plugin you can map any of the following actions to arbitrary buttons on your favorite game controller:
 
@@ -20,8 +19,14 @@ With this plugin you can map any of the following actions to arbitrary buttons o
 *   Suspend Card
 *   Undo
 
-*Note: this plugin only works for Anki 1.x and has been largely superseded by [this
-addon](http://tmbb.bitbucket.org/gamepad/index.html).*
+## Dependencies ##
+
+* [Anki 1.x](http://ankisrs.net/download/mirror/archive/)
+* [pygame](http://www.pygame.org/)
+
+## Installation ##
+
+To install this extension, simply copy the included `ankijoy.py` file into Anki's `addons` directory.
 
 ## Screenshots ##
 
