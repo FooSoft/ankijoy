@@ -19,7 +19,7 @@ With this plugin you can map any of the following actions to arbitrary buttons o
 *   Suspend Card
 *   Undo
 
-## Dependencies ##
+## Requirements ##
 
 * [Anki 1.x](http://ankisrs.net/download/mirror/archive/)
 * [pygame](http://www.pygame.org/)
