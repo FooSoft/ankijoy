@@ -21,8 +21,8 @@ With this plugin you can map any of the following actions to arbitrary buttons o
 
 ## Requirements ##
 
-* [Anki 1.x](http://ankisrs.net/download/mirror/archive/)
-* [pygame](http://www.pygame.org/)
+*   [Anki 1.x](http://ankisrs.net/download/mirror/archive/)
+*   [pygame](http://www.pygame.org/)
 
 ## Installation ##
 
