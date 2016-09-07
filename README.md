@@ -1,3 +1,4 @@
+# AnkiJoy #
 
 AnkiJoy is a plugin for Anki (version 1.x only) which enables joystick and gamepad support in Linux via pygame. Due to
 differences in the Python runtime environment, this plugin does not currently function in Windows (no testing has been
